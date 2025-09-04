@@ -24,4 +24,4 @@ Script Python para organizar artigos científicos com base em um arquivo CSV de 
 
 ## Instalação
 ```bash
-pip install pandas# organize_articles
+pip install pandas
